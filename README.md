@@ -1,2 +1,2 @@
 # AnimalemExtincao
-https://github.com/Brubsmafra/AnimalemExtincao.git
+https://brubsmafra.github.io/AnimalemExtincao/
